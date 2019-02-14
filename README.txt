@@ -12,4 +12,4 @@ Data Structures and Algorithms in C++ [BOOK]
 Known Errors
 Has trouble reading the file sometimes.
 Includes
-DNA_Counter.cpp, DNA_Counter.h, main.cpp, Sheridan.txt, ReadMe.txt
+DNA_Counter.cpp, DNA_Counter.h, main.cpp, Sheridan.txt, README.txt
